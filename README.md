@@ -155,9 +155,9 @@ http://YOUR_IP:PORT/predict
 
 ---
 
-## Demo
+## 🎥 Demo
 
-[![Watch Demo](assets/demo.png)](demo.mp4)
+[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ---
 

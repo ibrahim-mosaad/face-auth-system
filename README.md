@@ -157,7 +157,7 @@ http://YOUR_IP:PORT/predict
 
 ## 🎥 Demo
 
-[![Watch Demo](assets/demo.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/shorts/Itj-K6PdSNQ))
+[![Watch Demo](assets/demo.png)](https://www.youtube.com/watch?v=Itj-K6PdSNQ)
 
 ---
 
